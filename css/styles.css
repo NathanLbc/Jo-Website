@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.container{
+}
+
+.body{
+    margin:0px;
+    
+
+}
+.presentation{
+    margin-bottom: 5em;
+}
+.logo-img{
+    height:60%;
+    background-color: lightgray;
+    width:40%;
+    margin:auto;
+}
+.top-menu {
+    height:250px;
+}
+.menu-buttons{
+    margin: 3em 0 0 10em;
+    height:auto;
+}
+.btn{
+    margin-left: 3em;
+    background-color: white;
+    border-color:white;
+}
+.footer{
+    background-color: lightgray;
+    width:100%;
+}
+.footer-txt{
+    text-align: center;
+    font-style: italic;
+    font-size: 10px;;
+    width:40%;
+    margin:auto;
+}
